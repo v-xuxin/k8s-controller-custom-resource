@@ -8,7 +8,7 @@ An example of a custom Kubernetes controller that's only purpose is to watch for
 
 ## Detailed Guide
 
-[CRD_Guide]: https://time.geekbang.org/column/article/41876
+Guide: [CRD_Guide](https://time.geekbang.org/column/article/41876)
 
 ## Running
 
