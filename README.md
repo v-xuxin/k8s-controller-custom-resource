@@ -6,6 +6,9 @@
 
 An example of a custom Kubernetes controller that's only purpose is to watch for the creation, updating, or deletion of all custom resource of type `Network` (in the all namespaces). This was created as an exercise to understand how Kubernetes controllers work and interact with the cluster and resources.
 
+## Detailed Guide
+[CRD_Guide]: https://time.geekbang.org/column/article/41876
+
 ## Running
 
 Clone repo:
